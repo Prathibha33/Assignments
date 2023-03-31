@@ -1,13 +1,13 @@
 package week1Day2;
 
-public class LearnFibbinocc {
+public class Fibbinocc {
 
 	
 	
 	
 	
 	
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int range = 8;
 int fNum = 0;
